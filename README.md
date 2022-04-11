@@ -8,7 +8,7 @@
   - mdptoolbox-hiive: 4.0.3.1
 
 - Clone repository
-    git clone git@github.com:woo0618/CS7641.git
+    git clone git@github.com:jay-kj-woo/CS7641.git
 
 - Go into directory and open up 'CS7641_MarkovDecisionProcesses.ipynb' jupyter notebook
     ```console
